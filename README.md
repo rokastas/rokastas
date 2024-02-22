@@ -3,9 +3,9 @@
 I am a Full Stack Developer with experience in the field of Architecture.
 
 - 🌱 I’m currently working on improving my skills on **Ruby on Rails, Javascript, Mobile Applications**
-- 📫 How to reach me: **rokastas@gmail.com**
+- 📄 Know about my experiences - my CV: [https://shorturl.at/cfoK0](https://shorturl.at/cfoK0)
 - 💼 Check out my portfolio: https://troopl.com/rokas
-- 📄 Know about my experiences. CV: [https://shorturl.at/cfoK0](https://shorturl.at/cfoK0)
+- 📫 How to reach me: **rokastas@gmail.com**
 
 <p>My projects:</p>
 <ul dir="auto">
