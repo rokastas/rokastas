@@ -3,9 +3,7 @@
 I am a Full Stack Developer with experience in the field of Architecture.
 
 - 🌱 I’m currently working on improving my skills on **Ruby on Rails, Javascript, Mobile Applications**
-
 - 📫 How to reach me: **rokastas@gmail.com**
-
 - 📄 Know about my experiences [https://shorturl.at/cfoK0](https://shorturl.at/cfoK0)
 
 <h4 align="left">Languages and Tools I work with:</h4>
