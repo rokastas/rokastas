@@ -6,6 +6,7 @@ I am a Full Stack Developer with experience in the field of Architecture.
 - 📫 How to reach me: **rokastas@gmail.com**
 - 📄 Know about my experiences [https://shorturl.at/cfoK0](https://shorturl.at/cfoK0)
 
+<p>My projects:</p>
 <ul dir="auto">
   <li><a href="https://github.com/crescendolll/quick-quizz">QuickQuizz</a> : an AI quiz generating web app.</li>
   <li><a href="https://github.com/rokastas/SkyHigh_Rentals">SkyHigh</a> : a drone renting website.</li>
