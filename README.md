@@ -1,4 +1,4 @@
-<h2>**Hi, I'm Rokas 👋**</h2>
+**<h3>Hi, I'm Rokas 👋</h3>**
 
 I am a Full Stack Developer with experience in the field of Architecture.
 
