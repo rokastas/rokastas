@@ -7,8 +7,8 @@ I am a Full Stack Developer with experience in the field of Architecture.
 - 📄 Know about my experiences [https://shorturl.at/cfoK0](https://shorturl.at/cfoK0)
 
 <ul dir="auto">
-  <li><a href="[https://github.com/JulesChevrant/OVNINB](https://github.com/crescendolll/quick-quizz)">QuickQuizz</a> : an AI quiz generating web app.</li>
-  <li><a href="[https://github.com/kevinkotcherga/VIBES](https://github.com/rokastas/SkyHigh_Rentals)">SkyHigh</a> : a drone renting website.</li>
+  <li><a href="https://github.com/crescendolll/quick-quizz">QuickQuizz</a> : an AI quiz generating web app.</li>
+  <li><a href="https://github.com/rokastas/SkyHigh_Rentals">SkyHigh</a> : a drone renting website.</li>
 </ul>
 
 <h4 align="left">Languages and Tools I work with:</h4>
