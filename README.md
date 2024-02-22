@@ -20,9 +20,14 @@ I am a Full Stack Developer with experience in the field of Architecture.
   <span class="pl-c1">toolsUsed</span>: <span class="pl-kos">[</span><span class="pl-s">"Visual Studio Code"</span><span class="pl-kos">,</span> <span class="pl-s">"Bootstrap"</span><span class="pl-kos">,</span> <span class="pl-s">"Figma"</span><span class="pl-kos">,</span> <span class="pl-s">"GitHub"</span><span class="pl-kos">,</span> <span class="pl-s">"Heroku"</span>]</span><span class="pl-kos">,</span>
   <span class="pl-c1">pastExperience</span>: <span class="pl-kos">[</span>
     <span class="pl-kos">{</span>
-      <span class="pl-c1">company</span> : <span class="pl-s">"La Revanche des Sites"</span><span class="pl-kos">,</span>
-      <span class="pl-c1">post</span> : <span class="pl-s">"SEO Consultant"</span><span class="pl-kos">,</span>
+      <span class="pl-c1">company</span> : <span class="pl-s">"MVRDV"</span><span class="pl-kos">,</span>
+      <span class="pl-c1">post</span> : <span class="pl-s">"Architect"</span><span class="pl-kos">,</span>
       <span class="pl-c1">duration</span> : <span class="pl-s">"2 years and a half"</span>
+    <span class="pl-kos">}</span><span class="pl-kos">,</span>
+    <span class="pl-kos">{</span>
+      <span class="pl-c1">company</span> : <span class="pl-s">"Paleko ArchStudija"</span><span class="pl-kos">,</span>
+      <span class="pl-c1">post</span> : <span class="pl-s">"Architect"</span><span class="pl-kos">,</span>
+      <span class="pl-c1">duration</span> : <span class="pl-s">"1 year"</span>
     <span class="pl-kos">}</span><span class="pl-kos">,</span>
   <span class="pl-kos">]</span><span class="pl-kos">,</span>
 <span class="pl-kos">}</span></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
