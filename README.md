@@ -9,7 +9,7 @@ I am a Full Stack Developer with experience in the field of Architecture.
 
 <p>My projects:</p>
 <ul dir="auto">
-  <li><a href="https://www.quick-quizz.me">QuickQuizz</a> : an AI quiz generating web app. Try it!  Username: test@quick.quizz,  Password: 123456</li>
+  <li><a href="https://www.quick-quizz.me" target=”_blank”>QuickQuizz</a> : an AI quiz generating web app. Try it!  Username: test@quick.quizz,  Password: 123456</li>
   <li><a href="https://github.com/rokastas/SkyHigh_Rentals">SkyHigh</a> : a drone renting website.</li>
 </ul>
 
