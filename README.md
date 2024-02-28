@@ -2,7 +2,7 @@
 
 I am a Full Stack Developer with experience in the field of Architecture.
 
-- 🌱 I’m currently working on improving my skills on **Ruby on Rails, Javascript, Mobile Applications**
+- 🌱 I’m currently working on improving my skills on **React, Javascript**
 - 📄 Know about my experiences - my CV: [https://shorturl.at/cfoK0](https://shorturl.at/cfoK0)
 - 💼 Check out my portfolio: https://troopl.com/rokas
 - 📫 How to reach me: **rokastas@gmail.com**
