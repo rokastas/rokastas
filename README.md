@@ -42,8 +42,8 @@ I am a Full Stack Developer with experience in the field of Architecture.
   availableForHire: true,
   education: &quot;Le Wagon Paris, a 9-week full-time intensive coding bootcamp&quot;,
   otherAlias: &quot;Full Stack Developer&quot;,
-  codesIn: [&quot;HTML&quot;, &quot;CSS&quot;, &quot;Ruby&quot;],
-  currentlylearning: [&quot;Ruby on Rails&quot;, &quot;JavaScript ES6&quot;, &quot;SQL&quot;],
+  codesIn: [&quot;HTML&quot;, &quot;CSS&quot;, &quot;Ruby&quot; &quot;Ruby on Rails&quot;],
+  currentlylearning: [&quot;React&quot;, &quot;JavaScript ES6&quot;],
   toolsUsed: [&quot;Visual Studio Code&quot;, &quot;Bootstrap&quot;, &quot;Figma&quot;, &quot;GitHub&quot;, &quot;Heroku&quot;],
   pastExperience: [
     {
