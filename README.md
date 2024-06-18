@@ -28,12 +28,17 @@ I am a Full Stack Developer with experience in the field of Design.
   <span class="pl-c1">pastExperience</span>: <span class="pl-kos">[</span>
     <span class="pl-kos">{</span>
       <span class="pl-c1">company</span> : <span class="pl-s">"MVRDV"</span><span class="pl-kos">,</span>
-      <span class="pl-c1">post</span> : <span class="pl-s">"Architect"</span><span class="pl-kos">,</span>
+      <span class="pl-c1">post</span> : <span class="pl-s">"Designer"</span><span class="pl-kos">,</span>
       <span class="pl-c1">duration</span> : <span class="pl-s">"2 years and a half"</span>
     <span class="pl-kos">}</span><span class="pl-kos">,</span>
     <span class="pl-kos">{</span>
+      <span class="pl-c1">company</span> : <span class="pl-s">"Delf University of Technology"</span><span class="pl-kos">,</span>
+      <span class="pl-c1">post</span> : <span class="pl-s">"IT Assistant"</span><span class="pl-kos">,</span>
+      <span class="pl-c1">duration</span> : <span class="pl-s">"1 year"</span>
+    <span class="pl-kos">}</span><span class="pl-kos">,</span>
+    <span class="pl-kos">{</span>
       <span class="pl-c1">company</span> : <span class="pl-s">"Paleko ArchStudija"</span><span class="pl-kos">,</span>
-      <span class="pl-c1">post</span> : <span class="pl-s">"Architect"</span><span class="pl-kos">,</span>
+      <span class="pl-c1">post</span> : <span class="pl-s">"Assistant Designer"</span><span class="pl-kos">,</span>
       <span class="pl-c1">duration</span> : <span class="pl-s">"1 year"</span>
     <span class="pl-kos">}</span><span class="pl-kos">,</span>
   <span class="pl-kos">]</span><span class="pl-kos">,</span>
