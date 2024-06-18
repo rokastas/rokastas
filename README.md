@@ -48,12 +48,17 @@ I am a Full Stack Developer with experience in the field of Design.
   pastExperience: [
     {
       company : &quot;MVRDV&quot;,
-      post : &quot;Architect&quot;,
+      post : &quot;Designer&quot;,
       duration : &quot;2 years and a half&quot;
+    },
+      {
+      company : &quot;Delft University of Technology&quot;,
+      post : &quot;IT Assistant&quot;,
+      duration : &quot;1 year&quot;
     },
     {
       company : &quot;Paleko ArchStudija&quot;,
-      post : &quot;Architect&quot;,
+      post : &quot;Assistant Designer&quot;,
       duration : &quot;1 year&quot;
     },
   ],
