@@ -1,6 +1,6 @@
 **<h3>Hi, I'm Rokas 👋</h3>**
 
-I am a Full Stack Developer with experience in the field of Architecture.
+I am a Full Stack Developer with experience in the field of Design.
 
 - 🌱 I’m currently working on improving my skills on **React, React Native, Javascript**
 - 📄 Know about my experiences - my CV: [https://shorturl.at/cfoK0](https://shorturl.at/cfoK0)
