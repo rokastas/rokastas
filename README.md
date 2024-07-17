@@ -3,8 +3,8 @@
 I am a Full Stack Developer with experience in the field of Design.
 
 - 🌱 I’m currently working on improving my skills on **React, React Native, Javascript**
-- 📄 Know about my experiences - my CV: [CV](https://shorturl.at/cfoK0)
-- 💼 Check out my portfolio: [Portfolio](https://rokass-fantabulous-site-13e55e.webflow.io/)
+- 📄 Know about my experiences: my [CV](https://www.linkedin.com/in/rokas-stasiulis/overlay/1716396227504/single-media-viewer/?profileId=ACoAACZo-McBHGeoxblhHrs0QH1pQSQbq2VAMW8)
+- 💼 Check out my portfolio: my [Portfolio](https://rokass-fantabulous-site-13e55e.webflow.io/)
 - 📫 How to reach me: **rokastas@gmail.com**
 
 <p>My projects:</p>
