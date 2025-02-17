@@ -20,7 +20,7 @@ I am a Full Stack Developer with experience in the field of Design.
 <h4 align="left">More about me:</h4>
 <div class="highlight highlight-source-js notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-k">const</span> <span class="pl-s1">rokasStasiulis</span> <span class="pl-c1">=</span> <span class="pl-kos">{</span>
   <span class="pl-c1">availableForHire</span>: <span class="pl-c1">true</span><span class="pl-kos">,</span>
-  <span class="pl-c1">education</span>: <span class="pl-s">"Le Wagon, a 9-week full-time intensive coding bootcamp"</span><span class="pl-kos">,</span>
+  <span class="pl-c1">education</span>: <span class="pl-s">"Le Wagon, TU Delft"</span><span class="pl-kos">,</span>
   <span class="pl-c1">otherAlias</span>: <span class="pl-s">"Full Stack Developer"</span><span class="pl-kos">,</span>
   <span class="pl-c1">codesIn</span>: <span class="pl-kos">[</span><span class="pl-s">"Ruby on Rails"</span><span class="pl-kos">,</span> <span class="pl-s">"HTML"</span><span class="pl-kos">,</span> <span class="pl-s">"SCSS"</span><span class="pl-kos">]</span><span class="pl-kos">,</span>
   <span class="pl-c1">currentlyLearning</span>: <span class="pl-kos">[</span><span class="pl-s">"React"</span><span class="pl-kos">,</span> <span class="pl-s">"JavaScript ES6"</span><span class="pl-kos">]</span><span class="pl-kos">,</span>
