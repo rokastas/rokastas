@@ -1,6 +1,6 @@
 **<h3>Hi, I'm Rokas 👋</h3>**
 
-I am a Full Stack Developer with experience in the field of Design.
+I am a Frontend Developer with experience in the field of Design.
 
 - 🌱 I’m currently working on improving my skills on **Node.js, React, React Native, Javascript**
 - 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/rokas-stasiulis)
